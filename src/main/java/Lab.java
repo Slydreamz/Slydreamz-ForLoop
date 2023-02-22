@@ -20,7 +20,7 @@ public class Lab {
      *          01234567
      *          notice that i is a variable that can be accessed from inside the loop, that i=0 is inclusive,
      *          but the i<8 is exclusive, and that i++ allows i to be incremented *after* all the code inside the loop
-     *          runs.
+     *          runs
      *
      *      let's try it, at the "code here" point, write:
      *      for part 1, write
